@@ -1,0 +1,5 @@
+[build]
+	functions = "functions/"
+	command = "npm run build"
+	functions]
+	timeout = 20
